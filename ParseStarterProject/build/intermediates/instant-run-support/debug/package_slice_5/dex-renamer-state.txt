@@ -1,0 +1,4 @@
+#Sat Jan 13 18:02:46 GMT-03:00 2018
+base.0=C\:\\Users\\Wender Galan\\Desktop\\Instagram-Clone\\InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
